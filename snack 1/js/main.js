@@ -1,0 +1,3 @@
+/*
+    JAVASCRIPT Snack 1
+*/
